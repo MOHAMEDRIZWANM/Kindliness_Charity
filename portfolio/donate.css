@@ -1,0 +1,93 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .donation-form {
+    background-color: #000000;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .df h1 {
+    color:rgb(220, 222, 224);
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+  }
+  
+  .input-group input,
+  .input-group select {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #dddddd;
+    border-radius: 5px;
+  }
+  
+  .proceed-button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .proceed-button:hover {
+    background-color: #002d5e;
+  }
+  
+  .input-group>input{
+    width: 95%;
+  }
+  .input-group>input:hover{
+    border: 2px solid rgb(65, 163, 223);
+  }
+  .input-group>select:hover{
+    border: 2px solid rgb(65, 163, 223);
+  }
+
+
+  body{
+    background-image: url(images/form.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+  }
+.donation-form{
+  opacity:40%;
+  height: 32rem;
+
+}
+.df{
+  opacity: 100%; 
+  position: absolute;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
