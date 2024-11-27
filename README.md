@@ -1,2 +1,2 @@
-http://Internrizwan.magicsense.in
+https://mohamedrizwanm.github.io/Kindliness_Charity/
 # Kindliness_Charity
